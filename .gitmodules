@@ -4,3 +4,54 @@
 [submodule "Ecole42Paris_libft"]
 	path = Ecole42Paris_libft
 	url = git@github.com:PfClaKr/Ecole42Paris_libft.git
+[submodule "Ecole42Paris_GNL"]
+	path = Ecole42Paris_GNL
+	url = git@github.com:PfClaKr/Ecole42Paris_GNL.git
+[submodule "Ecole42Paris_ftprintf"]
+	path = Ecole42Paris_ftprintf
+	url = git@github.com:PfClaKr/Ecole42Paris_ftprintf.git
+[submodule "Ecole42Paris_Solong"]
+	path = Ecole42Paris_Solong
+	url = git@github.com:PfClaKr/Ecole42Paris_Solong.git
+[submodule "Ecole42Paris_PushSwap"]
+	path = Ecole42Paris_PushSwap
+	url = git@github.com:PfClaKr/Ecole42Paris_PushSwap.git
+[submodule "Ecole42Paris_Philosophers"]
+	path = Ecole42Paris_Philosophers
+	url = git@github.com:PfClaKr/Ecole42Paris_Philosophers.git
+[submodule "Ecole42Paris_MiniShell"]
+	path = Ecole42Paris_MiniShell
+	url = git@github.com:PfClaKr/Ecole42Paris_MiniShell.git
+[submodule "Ecole42Paris_CppModule"]
+	path = Ecole42Paris_CppModule
+	url = git@github.com:PfClaKr/Ecole42Paris_CppModule.git
+[submodule "Ecole42Paris_Inception"]
+	path = Ecole42Paris_Inception
+	url = git@github.com:PfClaKr/Ecole42Paris_Inception.git
+[submodule "Ecole42Paris_transcendence"]
+	path = Ecole42Paris_transcendence
+	url = git@github.com:PfClaKr/Ecole42Paris_transcendence.git
+[submodule "Ecole42Paris_miniRT"]
+	path = Ecole42Paris_miniRT
+	url = git@github.com:PfClaKr/Ecole42Paris_miniRT.git
+[submodule "Ecole42Paris_Webserv"]
+	path = Ecole42Paris_Webserv
+	url = git@github.com:PfClaKr/Ecole42Paris_Webserv.git
+[submodule "Ecole42Paris_LittlePenguin"]
+	path = Ecole42Paris_LittlePenguin
+	url = git@github.com:PfClaKr/Ecole42Paris_LittlePenguin.git
+[submodule "Ecole42Paris_Minitalk"]
+	path = Ecole42Paris_Minitalk
+	url = git@github.com:PfClaKr/Ecole42Paris_Minitalk.git
+[submodule "Ecole42Paris_KFS"]
+	path = Ecole42Paris_KFS
+	url = git@github.com:PfClaKr/Ecole42Paris_KFS.git
+[submodule "Ecole42Paris_Rainfall"]
+	path = Ecole42Paris_Rainfall
+	url = git@github.com:PfClaKr/Ecole42Paris_Rainfall.git
+[submodule "Ecole42Paris_Override"]
+	path = Ecole42Paris_Override
+	url = git@github.com:PfClaKr/Ecole42Paris_Override.git
+[submodule "Ecole42Paris_ft_shield"]
+	path = Ecole42Paris_ft_shield
+	url = git@github.com:PfClaKr/Ecole42Paris_ft_shield.git
