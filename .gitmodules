@@ -1,0 +1,3 @@
+[submodule "Ecole42Paris_libasm"]
+	path = Ecole42Paris_libasm
+	url = git@github.com:PfClaKr/Ecole42Paris_libasm.git
