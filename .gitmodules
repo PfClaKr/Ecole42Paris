@@ -55,3 +55,6 @@
 [submodule "Ecole42Paris_ft_shield"]
 	path = Ecole42Paris_ft_shield
 	url = git@github.com:PfClaKr/Ecole42Paris_ft_shield.git
+[submodule "Ecole42Paris_ft_ping"]
+	path = Ecole42Paris_ft_ping
+	url = git@github.com:PfClaKr/Ecole42Paris_ft_ping.git
