@@ -58,3 +58,6 @@
 [submodule "Ecole42Paris_ft_ping"]
 	path = Ecole42Paris_ft_ping
 	url = git@github.com:PfClaKr/Ecole42Paris_ft_ping.git
+[submodule "Ecole42Paris_BADASS"]
+	path = Ecole42Paris_BADASS
+	url = git@github.com:PfClaKr/Ecole42Paris_BADASS.git
