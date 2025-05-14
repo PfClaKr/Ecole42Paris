@@ -28,9 +28,6 @@
 [submodule "Ecole42Paris_Inception"]
 	path = Ecole42Paris_Inception
 	url = git@github.com:PfClaKr/Ecole42Paris_Inception.git
-[submodule "Ecole42Paris_transcendence"]
-	path = Ecole42Paris_transcendence
-	url = git@github.com:PfClaKr/Ecole42Paris_transcendence.git
 [submodule "Ecole42Paris_miniRT"]
 	path = Ecole42Paris_miniRT
 	url = git@github.com:PfClaKr/Ecole42Paris_miniRT.git
@@ -61,3 +58,6 @@
 [submodule "Ecole42Paris_BADASS"]
 	path = Ecole42Paris_BADASS
 	url = git@github.com:PfClaKr/Ecole42Paris_BADASS.git
+[submodule "Ecole42Paris_ft_transcendance"]
+	path = Ecole42Paris_ft_transcendance
+	url = git@github.com:sleepychloe/ft_transcendance.git
