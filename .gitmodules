@@ -61,3 +61,6 @@
 [submodule "Ecole42Paris_ft_transcendance"]
 	path = Ecole42Paris_ft_transcendance
 	url = git@github.com:sleepychloe/ft_transcendance.git
+[submodule "Ecole42Paris_Inception_of_Things"]
+	path = Ecole42Paris_Inception_of_Things
+	url = git@github.com:PfClaKr/Ecole42Paris_Inception_of_Things.git
