@@ -1,12 +1,12 @@
 # Ecole 42 Paris Projects
 
-Welcome to my **42 Paris** repository! 🚀 Here, you'll find my journey through the rigorous and exciting curriculum of **Ecole 42 Paris**. This repository serves as a showcase of the various projects I've completed during my time at the school, highlighting my progress in software development, algorithmic problem-solving, and system programming.
+Welcome to my **42 Paris** repository! find my journey through the rigorous and exciting curriculum of **Ecole 42 Paris**. This repository serves as a showcase of the various projects I've completed during my time at the school, highlighting my progress in software development, algorithmic problem-solving, and system programming.
 
-## 📌 About 42 Paris
+## About 42 Paris
 **Ecole 42 Paris** is a globally recognized coding school with an innovative peer-learning system. There are no traditional teachers or classes—students learn by completing projects and collaborating with peers. The curriculum focuses on hands-on experience and real-world problem-solving.
 
-## 📂 Repository Structure
-Here’s a quick overview of the projects in this repository:
+## Repository Structure
+Quick overview of the projects in this repository:
 
 | Project | Description | Score |
 |---------|------------|--------|
